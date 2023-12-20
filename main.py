@@ -1,4 +1,3 @@
-# Importing all the libraries
 import customtkinter
 import tkinter
 from tkinter import *
